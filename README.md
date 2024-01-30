@@ -11,4 +11,11 @@ for connect to android device :
 
 adb devices
 
-#
+# Stop Server 
+adb kill-server
+
+# Start Server
+adb start-server
+
+# ADB shell
+** adb shell **
